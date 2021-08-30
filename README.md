@@ -1,2 +1,5 @@
 # hello-world
-Its a new repository!
+
+Hi people
+
+I stay in Bengaluru. I love to explore various fields in software development.
